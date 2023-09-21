@@ -1,6 +1,6 @@
 # Switch Receiver (1)
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 1. **Switch device** checks if it is the intended completer.\
    It checks the address in the packet header against the **target addresses programmed in its 2 BARs,** and if it falls within the range, it consumes the packet.

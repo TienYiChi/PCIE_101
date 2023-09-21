@@ -2,7 +2,7 @@
 
 ## Differential Signaling
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ref: <a href="https://www.allaboutcircuits.com/technical-articles/the-why-and-how-of-differential-signaling/">https://www.allaboutcircuits.com/technical-articles/the-why-and-how-of-differential-signaling/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ref: <a href="https://www.allaboutcircuits.com/technical-articles/the-why-and-how-of-differential-signaling/">https://www.allaboutcircuits.com/technical-articles/the-why-and-how-of-differential-signaling/</a></p></figcaption></figure>
 
 ### Pros
 

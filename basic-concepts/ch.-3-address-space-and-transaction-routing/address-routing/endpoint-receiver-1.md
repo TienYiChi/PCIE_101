@@ -1,6 +1,6 @@
 # Endpoint Receiver (1)
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 **EP device** checks the address in the packet header against each of its implemented BARs.
 

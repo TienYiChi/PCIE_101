@@ -2,7 +2,7 @@
 
 ## An Example, Device 0 on Bus 0:
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="480"><figcaption></figcaption></figure>
 
 ### Step 1: Read Vendor ID (Probing)
 

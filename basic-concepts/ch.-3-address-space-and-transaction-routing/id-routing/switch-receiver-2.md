@@ -1,6 +1,6 @@
 # Switch Receiver (2)
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * A switch device first checks if it is **the intended completer.**
 * If not, **Secondary-Subordinate Bus# registers** will be checked to determine if forwarding is needed.
