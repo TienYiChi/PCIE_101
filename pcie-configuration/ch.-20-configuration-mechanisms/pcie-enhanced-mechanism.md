@@ -4,9 +4,13 @@
 
 #### 256 Buses \* 32 Devices \* 8 Functions \* 4KB = 256MB
 
-* Bits \[63:28] = 256MB-aligned base address\
-  In some multi-host/bridge system,&#x20;
+* Bits \[63:28] = 256MB-aligned base address
 * Bits \[27:20] = target bus number
+
+{% hint style="info" %}
+In a multi-host/bridge system, the number of bits mapped to the Bus# field must be large enough that the highest **Bus# assigned to each particular bridge must be less than or equal to** $$2^n - 1$$ for that bridge.
+{% endhint %}
+
 * Bits \[19:15] = target device number
 * Bits \[14:12] = target function number
 * Bits \[11:2] = **target DW** within the configuration
