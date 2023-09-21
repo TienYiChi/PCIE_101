@@ -39,7 +39,7 @@
   * [Configuration Transactions](pcie-configuration/ch.-19-configuration-overview/configuration-transactions.md)
   * [Function Discovery and Differentiation](pcie-configuration/ch.-19-configuration-overview/function-discovery-and-differentiation.md)
 * [Ⓜ Ch. 20 Configuration Mechanisms](pcie-configuration/ch.-20-configuration-mechanisms/README.md)
-  * [PCI 2.3 Compatible Mechanism](pcie-configuration/ch.-20-configuration-mechanisms/pci-2.3-compatible-mechanism.md)
+  * [PCI Compatible Mechanism](pcie-configuration/ch.-20-configuration-mechanisms/pci-2.3-compatible-mechanism.md)
   * [PCIe Enhanced Mechanism](pcie-configuration/ch.-20-configuration-mechanisms/pcie-enhanced-mechanism.md)
   * [Initial Configuration Accesses](pcie-configuration/ch.-20-configuration-mechanisms/initial-configuration-accesses.md)
 * [🌲 Ch. 21 PCIe Enumeration](pcie-configuration/ch.-21-pcie-enumeration/README.md)

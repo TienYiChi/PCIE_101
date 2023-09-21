@@ -1,6 +1,6 @@
-# PCI 2.3 Compatible Mechanism
+# PCI Compatible Mechanism
 
-**PCI 2.3 Spec.** defined a method of performing PCI config access via **processor-initiated IO accesses**, with some constraints:
+**PCI Spec.** defined a method of performing PCI config access via **processor-initiated IO accesses**, with some constraints:
 
 * The only practically available IO address range is **0C00h-0CFFh**
 * Each PCI function (including **host/PCI bridge**) on PCI bus requires 64 DWs of configuration space.
