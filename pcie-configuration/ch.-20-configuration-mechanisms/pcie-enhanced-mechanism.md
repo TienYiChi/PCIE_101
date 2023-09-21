@@ -4,7 +4,8 @@
 
 #### 256 Buses \* 32 Devices \* 8 Functions \* 4KB = 256MB
 
-* Bits \[63:28] = 256MB-aligned base address
+* Bits \[63:28] = 256MB-aligned base address\
+  In some multi-host/bridge system,&#x20;
 * Bits \[27:20] = target bus number
 * Bits \[19:15] = target device number
 * Bits \[14:12] = target function number
