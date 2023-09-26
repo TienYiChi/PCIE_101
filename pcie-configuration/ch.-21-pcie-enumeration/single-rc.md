@@ -22,7 +22,7 @@
 
 ### Step 4: Checks Port Type
 
-* The enumeration process reads the device's **"capability registers"** to check the port type field.
+* The enumeration process reads the device's **capability registers** to check the port type field.
 * In such case, **0100b** means **"root port"** on the RC.
 
 ### Step 5: Searches Buses/Devices/Functions by DFS

@@ -43,9 +43,9 @@
   * [PCIe Enhanced Mechanism](pcie-configuration/ch.-20-configuration-mechanisms/pcie-enhanced-mechanism.md)
   * [Initial Configuration Accesses](pcie-configuration/ch.-20-configuration-mechanisms/initial-configuration-accesses.md)
 * [🌲 Ch. 21 PCIe Enumeration](pcie-configuration/ch.-21-pcie-enumeration/README.md)
-  * [Device/Port Type](pcie-configuration/ch.-21-pcie-enumeration/device-port-type.md)
   * [Single RC](pcie-configuration/ch.-21-pcie-enumeration/single-rc.md)
   * [Multiple RC](pcie-configuration/ch.-21-pcie-enumeration/multiple-rc.md)
+  * [Multi-Function Device within RC/Switch](pcie-configuration/ch.-21-pcie-enumeration/multi-function-device-within-rc-switch.md)
 
 ## 🛤 TL Tracking
 
