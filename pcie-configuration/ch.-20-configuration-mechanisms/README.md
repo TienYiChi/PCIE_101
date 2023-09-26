@@ -2,6 +2,8 @@
 
 ## PCI Compatible Mechanism
 
+* Read/Write via IO Address Space
+
 ***
 
 ## PCIE Enhanced Configuration Access Mechanism (ECAM)
