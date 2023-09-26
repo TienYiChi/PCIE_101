@@ -11,7 +11,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-A **PCIE device** must support additional 4 bits, the **Extended Register Address \[3:0]**, for decoding configuration register access.
+A **PCIE device** must support decoding additional 4 bits, the **Extended Register Address \[3:0] = Upper 4 bits of DW offset**.
 {% endhint %}
 
 {% hint style="warning" %}
