@@ -46,6 +46,8 @@
   * [Single RC](pcie-configuration/ch.-21-pcie-enumeration/single-rc.md)
   * [Multiple RC](pcie-configuration/ch.-21-pcie-enumeration/multiple-rc.md)
   * [Multi-Function Device within RC/Switch](pcie-configuration/ch.-21-pcie-enumeration/multi-function-device-within-rc-switch.md)
+  * [BDF Assignment](pcie-configuration/ch.-21-pcie-enumeration/bdf-assignment.md)
+  * [Root Complex Register Blocks (RCRB)](pcie-configuration/ch.-21-pcie-enumeration/root-complex-register-blocks-rcrb.md)
 
 ## 🛤 TL Tracking
 
