@@ -2,6 +2,19 @@
 
 ## Discovery of Functions
 
+RC discovers by functions by reading/probing hardwired **Vendor ID** assigned by PCI-SIG in each function's config register.
+
+Receiving value **FFFFh** indicates a non-existent function.
+
+***
+
+## &#x20;Single/Multi Function Device
+
+The highest bit of the Header Type register identifies the type of device:
+
+* 0: Single-function device
+* 1: Multi-function device
+
 ***
 
 ## PCI-to-PCI Bridge / Non-Bridge Function

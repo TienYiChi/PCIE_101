@@ -16,14 +16,22 @@ layout:
 
 ## Definition of Device and Function
 
+### Function:
+
+Standalone functionality.
+
+### Device:
+
+Resides behind a Bus, can implements as many as 8 functions.
+
 ***
 
 ## Definition of Primary and Secondary Bus
 
-***
+### Primary Bus:
 
-## Configuration Registers of Device
+Upstream side (towards RC)
 
-### PCI-Compatible Space
+### Secondary Bus:
 
-### PCI Express Extended Configuratino Space
+Downstream side (away from RC)
