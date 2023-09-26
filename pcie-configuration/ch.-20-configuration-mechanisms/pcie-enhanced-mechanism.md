@@ -1,14 +1,16 @@
 # PCIe Enhanced Mechanism
 
-## Configuration Space
+## Memory-mapped Configuration Space
 
-#### 256 Buses \* 32 Devices \* 8 Functions \* 4KB = 256MB
+#### Maximal 256 Buses \* 32 Devices \* 8 Functions \* 4KB = 256MB
+
+### e.g.
 
 * Bits \[63:28] = 256MB-aligned base address
-* Bits \[27:20] = target bus number
+* Bits \[27:20] = target bus number field
 
-{% hint style="info" %}
-In a multi-host/bridge system, the number of bits mapped to the Bus# field must be large enough that the highest **Bus# assigned to each particular bridge must be less than or equal to** $$2^n - 1$$ for that bridge.
+{% hint style="warning" %}
+A minimum of 1 bit must be implemented and mapped to the Bus Number field. However, in practice, the number of Buses allowed is dependent on **the design of host bridge and the firmware, and can range from 1 - 256(8-bit)**.
 {% endhint %}
 
 * Bits \[19:15] = target device number
