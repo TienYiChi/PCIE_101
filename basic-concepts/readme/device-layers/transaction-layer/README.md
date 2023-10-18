@@ -26,4 +26,4 @@
 
 * Configured during initialization and bus enumeration, by device drivers.
 * Accessed by OS/runtime software.
-* Stores "Link capabilities", such as Link width and frequency.
+* Store "Capability Structures" in linked lists.
